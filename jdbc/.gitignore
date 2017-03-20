@@ -1,0 +1,12 @@
+target/
+.git/
+.class
+.settings/
+.project
+.bin/
+.classpath
+.sass-cache/
+node_modules/
+src/main/webapp/WEB-INF/classes/
+src/main/webapp/WEB-INF/lib/
+.class
